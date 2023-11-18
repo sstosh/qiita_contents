@@ -1,11 +1,11 @@
 ---
 title: Docker/Podman のセキュリティ機能比較
 tags:
-  - 'linux'
-  - 'podman'
+  - Linux
+  - Podman
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-11-19T03:55:10+09:00'
+id: d8a77c7b67facf3c6526
 organization_url_name: null
 slide: false
 ignorePublish: false
